@@ -6,7 +6,7 @@ Full-stack movie application built with **Python, FastAPI, PostgreSQL and React*
 
 ## Preview
 
-![Movie App](screenshots/home.png)
+![Movie App](frontend/screenshots/home.png)
 
 ## Features
 
