@@ -1,0 +1,17 @@
+.my-list-page {
+  min-height: 100vh;
+
+  padding:
+    120px
+    max(40px, calc((100vw - 1200px) / 2))
+    60px;
+
+  background: #000;
+  color: white;
+}
+
+.my-list-page h1 {
+  margin-bottom: 30px;
+
+  font-size: 36px;
+}
